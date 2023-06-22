@@ -1,2 +1,4 @@
 # Course
-Learning
+My first step in gitgub
+
+
